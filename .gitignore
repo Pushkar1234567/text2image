@@ -21,5 +21,4 @@ rad.json
 #Test results file
 TestResults.xml
 
-app.tTom.py
-t2img.local.py
+t2img/local.py
