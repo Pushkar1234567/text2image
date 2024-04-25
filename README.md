@@ -23,3 +23,17 @@ you just have to write the command for sawing the parallel tasks for image gener
 
 celery -A your_project_name worker -l info
 
+
+
+
+for testing in postman 
+
+request : post
+url : http://127.0.0.1:8000/generate_image/
+
+form-data :
+            "text" : "cat riding the board"
+
+
+
+
